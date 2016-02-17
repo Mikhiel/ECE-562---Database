@@ -1,1 +1,1 @@
-# ECE-562---Database
+# ECE-562---Introduction for Database Management
